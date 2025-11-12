@@ -1,0 +1,17 @@
+streamlit
+python-dotenv
+langchain
+langchain_community
+langchain_google_genai
+langchain_huggingface
+chromadb
+sentence-transformers
+beautifulsoup4
+pymupdf
+docx2txt
+sqlalchemy
+fastapi
+uvicorn[standard]
+requests
+pandas
+sqlite3 
